@@ -5,7 +5,7 @@ let hasBlackJack = false;
 let isAlive = true;
 let message = "";
 let messageEl = document.getElementById("message-el");
-// 2. Store the
+// 2. S
 let sumEl = document.getElementById("sum-el");
 
 function startGame() {
